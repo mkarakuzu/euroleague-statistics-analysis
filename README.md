@@ -100,8 +100,8 @@ A bar chart comparing key metrics between teams:
 - ⚡ Fast Break points per match
 
 The chart includes four comparison categories:
-- **🟨 ULK** (Yellow bars): Ülkerspor performance
-- **🔵 IST** (Blue bars): Fenerbahçe Beko Istanbul performance
+- **🟨 ULK** (Yellow bars): ULK's performance
+- **🔵 IST** (Blue bars): IST's performance
 - **🟠 League AVG** (Orange bars): League-wide averages
 - **🟢 Best Team** (Green bars): Top performing team in each category
 
