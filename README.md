@@ -53,7 +53,7 @@ The script will:
 
 The script fetches data from the EuroLeague Points API:
 ```
-https://live.euroleague.net/api/Points?gamecode={game_code}&seasoncode={season_code}
+https://live.euroleague.net/api/Points?gamecode={game_code}&seasoncode={seasoncode}
 ```
 
 Key columns in the dataset:
@@ -90,7 +90,7 @@ The script generates:
 
 ### 1. Comparative Performance Chart
 
-![Performance Chart](./demo.jpg)
+![Performance Chart](./demo.png)
 
 A bar chart comparing key metrics between teams:
 - Score per match
@@ -131,14 +131,6 @@ The script includes try-except error handling for API request failures. If an er
 ## API Rate Limiting
 
 The script includes a 0.25-second delay between API requests to be respectful of server resources and avoid overwhelming the service.
-
-## License
-
-This project is provided as-is for educational and analytical purposes.
-
-## Contributing
-
-Feel free to fork, modify, and improve this analysis tool for deeper insights into EuroLeague statistics.
 
 ## Data Source
 
