@@ -17,7 +17,7 @@ This project collects detailed game statistics from the first 35 games of the 20
 
 - **🔄 Data Collection**: Automatically fetches game data from the EuroLeague API for specified season
 - **📐 Statistical Analysis**: Calculates team averages, league-wide metrics, and identifies top performers
-- **⚖️ Team Comparison**: Includes dedicated analysis for ULK (Ülkerspor) and IST (Fenerbahçe Beko Istanbul)
+- **⚖️ Team Comparison**: Includes dedicated analysis for ULK and IST 
 - **📊 Visualization**: Generates comprehensive comparison charts showing team performance against league averages
 - **🏆 Player Rankings**: Identifies top 3-point shooters across the league
 
